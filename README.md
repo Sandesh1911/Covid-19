@@ -12,15 +12,10 @@ workdone :
 
 Conclusion:
 	This dataset includes data tracking the number of people affected by COVID-19 worldwide, including:
-
-	1) confirmed tested cases of Coronavirus infection
-
-	2) the number of people who have reportedly recovered from it
-
-	3) the number of people who have reportedly died while sick with Coronavirus
-
-	4) And some graphical represention that show the proper indication of Recovered cases, Death cases etc.
-  
+  1) confirmed tested cases of Coronavirus infection 
+  2) the number of people who have reportedly recovered from it 
+  3) the number of people who have reportedly died while sick with Coronavirus 
+  4) And some graphical represention that show the proper indication of Recovered cases, Death cases etc.
   5) we had shown the comparison between US and Mainland china with the percentage of death,confirmed ,recovery cases it both regions
 
 steps for conclusion:
